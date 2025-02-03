@@ -1,4 +1,3 @@
-```markdown
 # ESP32-CAM Face Recognition Door Lock
 
 A smart door lock system using ESP32-CAM for face recognition, enabling secure and contactless entry.
@@ -55,4 +54,3 @@ This project leverages the ESP32-CAM module to create a face recognition-based d
 - Performance depends on lighting conditions. Ensure faces are well-lit.
 - The relay is active-high (`HIGH` unlocks the door). Adjust polarity if needed.
 - Face data is stored in ESP32's flash memory (non-volatile).
-```
